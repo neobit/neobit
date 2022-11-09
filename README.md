@@ -26,6 +26,12 @@ Hi, my github is kind of crazy, but I try my best. I work in fullstack developme
 
 # 💻 Technologies that I use:
 
+<div align="center">
+  <a href="https://github.com/neobit">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=neobit&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=neobit&layout=compact&langs_count=7&theme=dark"/>
+</div>
+
 #### Development Technologies:<br>
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
