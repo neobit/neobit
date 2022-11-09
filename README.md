@@ -12,7 +12,7 @@
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/neobitdev)
 <br>
 <br>
-Hi, my github is kind of crazy, but I try my best. I work in fullstack development, blockchain smart contracts and game development. I usually reply to messages on Instagram and my email. In the button right above you can join my gamedev Discord server if you are interested in asking questions and sharing knowledge.
+Hi, my github is kind of crazy, but I try my best. I work in fullstack development, blockchain smart contracts and game development. I usually reply to messages on Instagram and my <a href="mailto:contactneobit@gmail.com">email</a>. In the button right above you can join my gamedev Discord server if you are interested in asking questions and sharing knowledge.
 <br>
 <br>
 💻・ Fullstack Programming Apprentice<br>
@@ -36,40 +36,30 @@ Hi, my github is kind of crazy, but I try my best. I work in fullstack developme
 <br>
 
 #### Game Development:<br>
-![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
-![Unreal Engine](https://img.shields.io/badge/-Unreal%20Engine-313131?style=for-the-badge&logo=unreal-engine&logoColor=white)
-![Game Maker](https://i.imgur.com/kHk53rD.png)
-![Construct](https://camo.githubusercontent.com/863580e9e9782e6cdf4453023253031692c5a588b273b4ba350a145870faf741/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d436f6e7374727563742b3326636f6c6f723d323232323232266c6f676f3d436f6e7374727563742b33266c6f676f436f6c6f723d303046464441266c6162656c3d)<br>
+[![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)](https://unity.com)
+[![Unreal Engine](https://img.shields.io/badge/-Unreal%20Engine-313131?style=for-the-badge&logo=unreal-engine&logoColor=white)](https://www.unrealengine.com/en-US/unreal-engine-5)
+[![Game Maker](https://i.imgur.com/kHk53rD.png)](https://gamemaker.io/en)
+[![Construct](https://camo.githubusercontent.com/863580e9e9782e6cdf4453023253031692c5a588b273b4ba350a145870faf741/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d436f6e7374727563742b3326636f6c6f723d323232323232266c6f676f3d436f6e7374727563742b33266c6f676f436f6c6f723d303046464441266c6162656c3d)](https://www.construct.net/en)<br>
 #### Workflow:<br>
-![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
-![Asana](https://camo.githubusercontent.com/58b1255c8a1b92202bd555d484510c5181c122380d7c5f1f48b343f6b2abf96e/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d4173616e6126636f6c6f723d323733333437266c6f676f3d4173616e61266c6f676f436f6c6f723d464646464646266c6162656c3d)
-![JIRA](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white)
+[![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)](https://trello.com/)
+[![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)](https://www.notion.so/)
+[![Asana](https://camo.githubusercontent.com/58b1255c8a1b92202bd555d484510c5181c122380d7c5f1f48b343f6b2abf96e/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d4173616e6126636f6c6f723d323733333437266c6f676f3d4173616e61266c6f676f436f6c6f723d464646464646266c6162656c3d)](https://asana.com/)
+[![JIRA](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white)](https://www.atlassian.com/br/software/jira)
 #### Blockchain:<br>
-![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white)
-![Polygon](https://tinyurl.com/ys9yfcpw)
-![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white)<br>
+[![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white)](https://ethereum.org/)
+[![Polygon](https://tinyurl.com/ys9yfcpw)](https://polygon.technology/)
+[![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white)](https://soliditylang.org/)<br>
 #### Art:<br>
-![Aseprite](https://img.shields.io/badge/Aseprite-FFFFFF?style=for-the-badge&logo=Aseprite&logoColor=#7D929E)
-![Krita](https://camo.githubusercontent.com/f447c60451fa1955cd05027c2fd4b13fb4c35fa739a3823e2814ddb358dfc334/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d4b7269746126636f6c6f723d323232323232266c6f676f3d4b72697461266c6f676f436f6c6f723d334241424646266c6162656c3d)
-![Adobe Photoshop](https://img.shields.io/badge/photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white)<br>
+[![Aseprite](https://img.shields.io/badge/Aseprite-FFFFFF?style=for-the-badge&logo=Aseprite&logoColor=#7D929E)](https://www.aseprite.org/)
+[![Krita](https://camo.githubusercontent.com/f447c60451fa1955cd05027c2fd4b13fb4c35fa739a3823e2814ddb358dfc334/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d4b7269746126636f6c6f723d323232323232266c6f676f3d4b72697461266c6f676f436f6c6f723d334241424646266c6162656c3d)](https://krita.org/en/)
+[![Adobe Photoshop](https://img.shields.io/badge/photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white)](https://www.adobe.com/br/products/photoshop.html)<br>
 #### Design:<br>
-![Adobe Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)<br>
+[![Adobe Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)](https://www.adobe.com/br/products/illustrator.html)
+[![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/)
+[![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)](https://www.canva.com/)<br>
 #### Music:<br>
-![FLStudio](https://i.imgur.com/y7BZ2s9.png)
-![Audacity](https://img.shields.io/badge/Audacity-0000CC?style=for-the-badge&logo=audacity&logoColor=white)<br>
+[![FLStudio](https://i.imgur.com/y7BZ2s9.png)](https://www.image-line.com/)
+[![Audacity](https://img.shields.io/badge/Audacity-0000CC?style=for-the-badge&logo=audacity&logoColor=white)](https://www.audacityteam.org/)<br>
 
 <br>
 <br>
-
-<!--
-![a](https://github-readme-stats.vercel.app/api/top-langs/?username=neobit&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
- # 📊 GitHub Stats:
- ![](https://github-readme-stats.vercel.app/api?username=neobit&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=neobit&theme=dark&hide_border=false)<br/> -->
-
-
-<!--Colors Icons: 230077B5 23E4405F 237289DA 239146FF 231DA1F2 1769ff FF6347: verde -->
