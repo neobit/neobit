@@ -1,7 +1,6 @@
 [![](https://visitcount.itsvg.in/api?id=neobit&icon=0&color=0)](https://visitcount.itsvg.in)
 # 🦊 Howdy! I'm Rafael or Neobit!
 
-
 ##### My social medias:
 [![Artstation](https://img.shields.io/badge/Artstation-%230077B5.svg?logo=Artstation&logoColor=white)](https://www.artstation.com/neobit)
 [![Soundcloud](https://img.shields.io/badge/Soundcloud-orange.svg?logo=Soundcloud&logoColor=white)](https://www.soundcloud.com/neobit)
@@ -12,18 +11,10 @@
 [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/neobit)
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/neobitdev)
 <br>
-<div class="container">
-  <div class="row">
-    <div class="col-md-12 text-center">
-      <h3 class="animate-charcter"> <a href="https://neobit.dev">Portifólio!</a></h3>
-    </div>
-  </div>
-</div>
 <br>
-<div id="div2"><p align="left">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=neobit&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact">
-</p></div>
-<div id="div1"><p align="left">
+Hi, my github is kind of crazy, but I try my best. I work in fullstack development, blockchain smart contracts and game development. I usually reply to messages on Instagram and my email. In the button right above you can join my gamedev Discord server if you are interested in asking questions and sharing knowledge.
+<br>
+<br>
 💻・ Fullstack Programming Apprentice<br>
 💼・ Intern Developer on <a href="https://www.dmcard.com.br/portal">DM Card Inc</a><br>
 📚・ Python, PHP, HTML5, JavaScript, React<br>
@@ -31,44 +22,7 @@
 🎮・ Game Developer<br>
 🎹・ Music Composer<br>
 🎨・ Edgy Artist<br>
-</p></div>
-<style>
-div {
-    width: 45%;
-    height: 45%;
-    display: inline-block;
-}
-#div1 {
-    vertical-align: top;
-    margin: 20px;
-}
-.animate-charcter
-{
-  background-image: linear-gradient(
-    -225deg,
-    #231557 0%,
-    #44107a 29%,
-    #ff1361 67%,
-    #fff800 100%
-  );
-  background-size: auto auto;
-  background-clip: border-box;
-  background-size: 200% auto;
-  color: #fff;
-  background-clip: text;
-  text-fill-color: transparent;
-  -webkit-background-clip: text;
-  -webkit-text-fill-color: transparent;
-  animation: textclip 2s linear infinite;
-  display: inline-block;
-      font-size: 22px;
-}
-@keyframes textclip {
-  to {
-    background-position: 200% center;
-  }
-}
-</style>
+<br>
 
 # 💻 Technologies that I use:
 
@@ -109,3 +63,13 @@ div {
 
 <br>
 <br>
+
+<!--
+![a](https://github-readme-stats.vercel.app/api/top-langs/?username=neobit&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
+ # 📊 GitHub Stats:
+ ![](https://github-readme-stats.vercel.app/api?username=neobit&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=neobit&theme=dark&hide_border=false)<br/> -->
+
+
+<!--Colors Icons: 230077B5 23E4405F 237289DA 239146FF 231DA1F2 1769ff FF6347: verde -->
