@@ -12,16 +12,18 @@
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/neobitdev)
 <br>
 <br>
-Hi, my github is kind of crazy, but I try my best. I work in fullstack development, blockchain smart contracts and game development. I usually reply to messages on Instagram and my <a href="mailto:contactneobit@gmail.com">email</a>. In the button right above you can join my gamedev Discord server if you are interested in asking questions and sharing knowledge.
+Hi, my github is kind of crazy, but I try my best. I work in fullstack development, blockchain smart contracts and game development. I usually reply to messages on Instagram and my <a href="mailto:contactneobit@gmail.com">email</a>. In the button right above you can join my gamedev Discord server if you are interested in asking questions and sharing knowledge. 
 <br>
 <br>
-💻・ Fullstack Programming Apprentice<br>
-💼・ Intern Developer on <a href="https://www.dmcard.com.br/portal">DM Card Inc</a><br>
-📚・ Python, PHP, HTML5, JavaScript, React<br>
+🌍・ I'm based in São José dos Campos, SP<br>
+💼・ I'm currently working as a Intern Developer on <a href="https://www.dmcard.com.br/portal">DM Card Inc</a><br>
+💻・ I'm a Fullstack Programming Apprentice<br>
+🐱‍👤・ <a href="https://www.kaidankai.studio/">Kaidankai Studio</a> | <a href="https://discord.gg/99EkyFK79s">Astrocat Academy</a><br>
 💀・ Horror Stories Lover<br>
 🎮・ Game Developer<br>
 🎹・ Music Composer<br>
 🎨・ Edgy Artist<br>
+👨‍🎓・ Teacher<br>
 <br>
 
 # 💻 Technologies that I use:
