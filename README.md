@@ -1,7 +1,7 @@
 [![](https://visitcount.itsvg.in/api?id=neobit&icon=0&color=0)](https://visitcount.itsvg.in)
-# 💫 Howdy! I'm Rafael or Neobit! 
+# 🦊 Howdy! I'm Rafael or Neobit! 
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/neobit) [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](htttps://discord.gg/https://discord.gg/99EkyFK79s) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rafaneobit) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/neobit) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/neobit) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/neobitdev) 
-<br>💻 Fullstack Programming Apprentice<br>💼 Intern Developer on DM Card Inc<br>📚 Python, PHP, HTML5, JavaScript, React<br>💀 Horror Stories Lover<br>🎮 Game Developer<br>🎹 Music Composer<br>🎨 Edgy Artist<br>
+<br>💻・ Fullstack Programming Apprentice<br>💼・ Intern Developer on DM Card Inc<br>📚・ Python, PHP, HTML5, JavaScript, React<br>💀・ Horror Stories Lover<br>🎮 Game Developer<br>🎹・ Music Composer<br>🎨・ Edgy Artist<br>
 
 # 💻 Technologies that I use:
 
