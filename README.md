@@ -17,7 +17,6 @@ Hi, my github is kind of crazy, but I try my best. I work in fullstack developme
 <br>
 🌍・ I'm based in São José dos Campos, SP<br>
 💼・ I'm currently working as a Intern Developer on <a href="https://www.dmcard.com.br/portal">DM Card Inc</a><br>
-💻・ I'm a Fullstack Programming Apprentice<br>
 🐱‍👤・ <a href="https://www.kaidankai.studio/">Kaidankai Studio</a> | <a href="https://discord.gg/99EkyFK79s">Astrocat Academy</a><br>
 💀・ Horror Stories Lover<br>
 🎮・ Game Developer<br>
