@@ -1,5 +1,4 @@
-[![](https://visitcount.itsvg.in/api?id=neobit&icon=0&color=0)](https://visitcount.itsvg.in)
-# 🦊 Howdy! I'm Rafael or Neobit!
+# 🦊 Howdy! I'm Rafael or Neobit! || [![](https://visitcount.itsvg.in/api?id=neobit&icon=0&color=0)](https://visitcount.itsvg.in)
 
 ##### My social medias:
 [![Artstation](https://img.shields.io/badge/Artstation-%230077B5.svg?logo=Artstation&logoColor=white)](https://www.artstation.com/neobit)
@@ -14,3 +13,7 @@
 <br>
 Hi, my github is kind of crazy, but I try my best. I work in fullstack development, blockchain smart contracts and game development. I usually reply to messages on Instagram and my <a href="mailto:contactneobit@gmail.com">email</a>. In the button right above you can join my gamedev Discord server if you are interested in asking questions and sharing knowledge. 
 
+<div align="center">
+  <p align="center"> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut sit amet turpis a augue tempus lacinia. </p>
+  <p align="center"> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut sit amet turpis a augue tempus lacinia. </p>
+</div>
