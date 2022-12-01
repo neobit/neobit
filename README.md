@@ -13,7 +13,37 @@
 <br>
 Hi, my github is kind of crazy, but I try my best. I work in fullstack development, blockchain smart contracts and game development. I usually reply to messages on Instagram and my <a href="mailto:contactneobit@gmail.com">email</a>. In the button right above you can join my gamedev Discord server if you are interested in asking questions and sharing knowledge. 
 
-<div align="center">
-  <p align="center"> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut sit amet turpis a augue tempus lacinia. </p>
-  <p align="center"> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut sit amet turpis a augue tempus lacinia. </p>
+<style>
+#container {
+    width:100%;
+    text-align:center;
+}
+
+#left {
+    float:left;
+    width:47.5%;
+    height: 20px;
+    background: #ff0000;
+}
+
+#center {
+    display: inline-block;
+    margin:0 auto;
+    width:5%;
+    height: 20px;
+    background: #00ff00;
+}
+
+#right {
+    float:right;
+    width:47.5%;
+    height: 20px;
+    background: #0000ff;
+}
+</style>
+
+<div id="container">
+  <div id="left">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut sit amet turpis a augue tempus lacinia.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut sit amet turpis a augue tempus lacinia.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut sit amet turpis a augue tempus lacinia.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut sit amet turpis a augue tempus lacinia.</div>
+  <div id="center"></div>
+  <div id="right">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut sit amet turpis a augue tempus lacinia.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut sit amet turpis a augue tempus lacinia.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut sit amet turpis a augue tempus lacinia.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut sit amet turpis a augue tempus lacinia.</div>
 </div>
