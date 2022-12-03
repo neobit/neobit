@@ -1,5 +1,5 @@
 [![](https://visitcount.itsvg.in/api?id=neobit&icon=0&color=0)](https://visitcount.itsvg.in)
-# 🦊 Howdy! I'm Rafael or Neobit! || 
+# 🦊 Howdy! I'm Rafael or Neobit!
 ##### My social medias:
 [![Artstation](https://img.shields.io/badge/Artstation-%230077B5.svg?logo=Artstation&logoColor=white)](https://www.artstation.com/neobit)
 [![Soundcloud](https://img.shields.io/badge/Soundcloud-orange.svg?logo=Soundcloud&logoColor=white)](https://www.soundcloud.com/neobit)
