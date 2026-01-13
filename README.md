@@ -11,4 +11,4 @@
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/neobitdev)
 <br>
 <br>
-I'm a Game Developer, Software Engineer and Smart Contract programmer. I often try to play around making music and art, just for fun. I love helping others and sharing knowledge with people, if you want, you can contact me on my social medias or on my <a href="mailto:contactneobit@gmail.com">email</a>.
+I'm a Game Developer and Software Engineer. I often try to play around making music and art, just for fun. I love helping others and sharing knowledge with people, if you want, you can contact me on my social medias or on my <a href="mailto:contactneobit@gmail.com">email</a>.
